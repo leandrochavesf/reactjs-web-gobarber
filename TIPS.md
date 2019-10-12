@@ -54,3 +54,12 @@
 15. Importar o routes/index em app.js
 
 16. Configurar o services/history.js
+
+17. Instalar o Reactotron para melhor depuração
+    `yarn add reactotron-react-js`
+
+18. Criar a configuração do reactotron em src/config/ReactotronConfig.js
+
+19. Importar o Reactotron no App.js
+
+20.
