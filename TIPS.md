@@ -27,3 +27,30 @@
 9. Configura o .editorconfig
 
 10. Configura o .eslintrc.js
+
+11. Instalar o react-router-dom para navegação na web
+    `yarn add react-router-dom`
+
+12. Criar as pastas e arquivos (Para os arquivos colocar o snippet rfc):
+    src/pages
+    src/pages/Dashboard
+    src/pages/Dashboard/index.js
+    src/pages/Profile
+    src/pages/Profile/index.js
+    src/pages/SignIn
+    src/pages/SignIn/index.js
+    src/pages/SignUp
+    src/pages/SignUp/index.js
+    src/routes
+    src/routes/index.js
+    src/services
+    src/services/history.js
+
+13. Instalar o history que auxilia na navegação entre as telas
+    `yarn add history`
+
+14. Importar e definir as rotas em routes/index.js com todas as pages criadas
+
+15. Importar o routes/index em app.js
+
+16. Configurar o services/history.js
