@@ -62,4 +62,12 @@
 
 19. Importar o Reactotron no App.js
 
-20.
+20. Configurar o redirecionamento de usuários segundo restriçnoes de logado e
+    não logado e rotas privadas em src/routes/Route.js
+
+21. Instalar os Prop-Types para atuar nas validações
+    `yarn add prop-types`
+
+22. Aplicar os Prop-Types em src/routes/Route.js
+
+23. Importar Route em src/routes/index.js e definir rotas privadas como isPrivate
