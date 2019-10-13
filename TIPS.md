@@ -71,3 +71,18 @@
 22. Aplicar os Prop-Types em src/routes/Route.js
 
 23. Importar Route em src/routes/index.js e definir rotas privadas como isPrivate
+
+24. Criar os layouts:
+    pages/\_layouts/auth/index.js
+    pages/\_layouts/default/index.js
+
+25. Instalar o styled-components
+    `yarn add styled-components`
+
+26. Criar os arquivos de estilização e importar o styled-components neles.
+    pages/\_layouts/auth/styles.js
+    pages/\_layouts/default/styles.js
+
+27. Importar os styles e definir suas prop-types nos \_layouts/\*/index.js
+
+28. Importar os Layouts em routes/Route.js
