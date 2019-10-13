@@ -86,3 +86,7 @@
 27. Importar os styles e definir suas prop-types nos \_layouts/\*/index.js
 
 28. Importar os Layouts em routes/Route.js
+
+29. Criar os estilos globais em src/styles/global.js
+
+30. Importar o global.js em src/App.js
