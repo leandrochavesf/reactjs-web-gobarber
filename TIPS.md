@@ -108,4 +108,11 @@
 36. Criar o arquivo jsconfig.json na raiz da aplicação para algumas configurações
     para o vscode com os problemas dos imports implementados
 
-37.
+37. Desenvolver as pages e estilos abaixo:
+    src/pages/SignIn/index.js
+    src/pages/SignUp/index.js
+    src/pages/\_layouts/auth/index.js
+    src/pages/\_layouts/auth/styles.js
+
+38. Instalar a lib para deixar os botões de hover "bonitinhos"
+    `yarn add polished`
