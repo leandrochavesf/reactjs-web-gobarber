@@ -90,3 +90,22 @@
 29. Criar os estilos globais em src/styles/global.js
 
 30. Importar o global.js em src/App.js
+
+31. Instalar libraries para auxiliar no caminho de rotas de importação
+    `yarn add customize-cra react-app-rewired -D`
+
+32. Criar o arquivo config-overrides.js
+
+33. Instalar a library de plugin do babel para aplicar ao config-overrides.js
+    `yarn add babel-plugin-root-import -D`
+
+34. Mudar os scripts em package.json para aplicar o react-app-rewired
+
+35. Instalar a library para corrigir os erros que o eslint está reportando sobre
+    as novas modificações de imports
+    `yarn add eslint-import-resolver-babel-plugin-root-import -D`
+
+36. Criar o arquivo jsconfig.json na raiz da aplicação para algumas configurações
+    para o vscode com os problemas dos imports implementados
+
+37.
