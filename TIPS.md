@@ -116,3 +116,10 @@
 
 38. Instalar a lib para deixar os botões de hover "bonitinhos"
     `yarn add polished`
+
+39. Instalar o unform
+    `yarn add @rocketseat/unform`
+
+40. Aplicar o unform nos arquivos
+    src/pages/SignIn/index.js
+    src/pages/SignUp/index.js
