@@ -161,3 +161,9 @@
     src/store/modules/user/actions.js
     src/store/modules/user/reducer.js
     src/store/modules/user/sagas.js
+
+49. Para trabalhar com a persistência do usuário autenticado, instalar a lib:
+    `yarn add redux-persist`
+
+50. Implementar o uso do redux-persist
+    src/store/persistReducers.js
