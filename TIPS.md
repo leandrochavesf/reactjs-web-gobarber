@@ -142,3 +142,10 @@
     src/store/modules/auth/actions.js
     src/store/modules/auth/reducer.js
     src/store/modules/auth/sagas.js
+
+45. Instalar o Axios para fazer requisições na API do backend
+    `yarn add axios`
+
+46. Criar o arquivo src/services/api.js para configuração do axios
+
+47.
