@@ -130,3 +130,15 @@
 42. Aplicar o Yup e os schemas de validação a:
     src/pages/SignIn/index.js
     src/pages/SignUp/index.js
+
+43. Iniciar a implantação do Redux, iniciando pela instalação das seguintes libraries:
+    `yarn add redux redux-saga react-redux reactotron-redux reactotron-redux-saga immer`
+
+44. Criar os arquivos e configurar o Redux
+    src/store/index.js
+    src/store/createStore.js
+    src/store/modules/rootReducer.js
+    src/store/modules/rootSaga.js
+    src/store/modules/auth/actions.js
+    src/store/modules/auth/reducer.js
+    src/store/modules/auth/sagas.js
