@@ -148,4 +148,16 @@
 
 46. Criar o arquivo src/services/api.js para configuração do axios
 
-47.
+47. Implementar as novas configurações da store em:
+    src/pages/SignIn.js
+    src/routes/Route.js
+    src/services/api.js
+    src/store/modules/auth/actions.js
+    src/store/modules/auth/reducer.js
+    src/store/modules/auth/sagas.js
+
+48. Neste momento será configurado os estados para o usuário, portanto necessário
+    a criação dos seguintes arquivos:
+    src/store/modules/user/actions.js
+    src/store/modules/user/reducer.js
+    src/store/modules/user/sagas.js
