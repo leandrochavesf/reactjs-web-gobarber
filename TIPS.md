@@ -123,3 +123,10 @@
 40. Aplicar o unform nos arquivos
     src/pages/SignIn/index.js
     src/pages/SignUp/index.js
+
+41. Instalar o Yup que ajuda para fazer validação, tanto no forntend quanto no backend
+    `yarn add yup`
+
+42. Aplicar o Yup e os schemas de validação a:
+    src/pages/SignIn/index.js
+    src/pages/SignUp/index.js
