@@ -167,3 +167,7 @@
 
 50. Implementar o uso do redux-persist
     src/store/persistReducers.js
+
+51. Implementar o Loading de autenticação
+
+52.
