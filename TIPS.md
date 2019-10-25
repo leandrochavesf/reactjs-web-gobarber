@@ -170,4 +170,5 @@
 
 51. Implementar o Loading de autenticação
 
-52.
+52. Instalar o Toast para notificações mais bonitas
+    `yarn add react-toastify`
