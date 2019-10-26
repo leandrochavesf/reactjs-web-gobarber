@@ -179,4 +179,8 @@
 54. Implementar a função para manter todas as requisições autorizadas no Axios
     com o token persistido e autenticado.
 
-55.
+55. Desenvolver a página Header da aplicação e seus estilos
+    src/components/Header/index.js
+    src/components/Header/styles.js
+
+56.
