@@ -175,3 +175,8 @@
 
 53. Desenvolver as actions e suas configs secundárias para a função de cadastro
     de usuario na aplicação
+
+54. Implementar a função para manter todas as requisições autorizadas no Axios
+    com o token persistido e autenticado.
+
+55.
