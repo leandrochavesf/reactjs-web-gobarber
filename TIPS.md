@@ -172,3 +172,6 @@
 
 52. Instalar o Toast para notificações mais bonitas
     `yarn add react-toastify`
+
+53. Desenvolver as actions e suas configs secundárias para a função de cadastro
+    de usuario na aplicação
