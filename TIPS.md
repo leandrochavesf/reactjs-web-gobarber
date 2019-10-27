@@ -183,4 +183,12 @@
     src/components/Header/index.js
     src/components/Header/styles.js
 
-56.
+56. Começar a estilização da função de Notifications
+    src/components/Notifications/index.js
+    src/components/Notifications/styles.js
+
+57. Instalar o pacote de icones para o react
+    `yarn add react-icons`
+
+58. Instalar modulo para trabalhar com scrollbar nas Notifications
+    `yarn add react-perfect-scrollbar`
