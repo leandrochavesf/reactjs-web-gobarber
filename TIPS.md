@@ -192,3 +192,8 @@
 
 58. Instalar modulo para trabalhar com scrollbar nas Notifications
     `yarn add react-perfect-scrollbar`
+
+59. Desenvolver a parte de notificações, com busca na API e melhorias
+
+60. Instalar o date-fns para trabalhar com datas
+    `yarn add install date-fns@next`
