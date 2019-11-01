@@ -197,3 +197,7 @@
 
 60. Instalar o date-fns para trabalhar com datas
     `yarn add install date-fns@next`
+
+61. Desenvolver a página de perfil
+
+62.
