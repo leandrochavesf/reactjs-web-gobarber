@@ -201,3 +201,5 @@
 61. Desenvolver a página de perfil
 
 62. Desenvolver funções de atualização do perfil
+
+63. Implementar a funcionalidade de cadastro de avatar
