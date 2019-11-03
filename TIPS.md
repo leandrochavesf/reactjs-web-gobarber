@@ -205,3 +205,5 @@
 63. Implementar a funcionalidade de cadastro de avatar
 
 64. Buscar dados do usuário e colocar em tempo real no header
+
+65. Aplicar funcionalidade de logout do usuário
