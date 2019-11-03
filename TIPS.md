@@ -203,3 +203,5 @@
 62. Desenvolver funções de atualização do perfil
 
 63. Implementar a funcionalidade de cadastro de avatar
+
+64. Buscar dados do usuário e colocar em tempo real no header
