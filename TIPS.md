@@ -209,3 +209,5 @@
 65. Aplicar funcionalidade de logout do usuário
 
 66. Criar a pagina de Dashboard
+
+67. Adicionar navegação entre os dias no Dashboard
