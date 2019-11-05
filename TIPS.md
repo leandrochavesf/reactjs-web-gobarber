@@ -211,3 +211,8 @@
 66. Criar a pagina de Dashboard
 
 67. Adicionar navegação entre os dias no Dashboard
+
+68. Aplicar a listagem dos agendamentos disponíveis
+
+69. Instalar a função de Timezone
+    `yarn add date-fns-tz`
